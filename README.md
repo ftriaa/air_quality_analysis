@@ -1,16 +1,17 @@
-# Dashboard Kualitas Udara 🌍
+# Dashboard Analisis Kualitas Udara ✨
 
 ## Setup Environment - Anaconda
 ```
-conda create --name main-ds python=3.9
-conda activate main-ds
+conda create --name AQI-ds python=3.11.7
+conda activate AQI-ds
 pip install -r requirements.txt
 ```
 
 ## Setup Environment - Shell/Terminal
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir air_quality_analysis
+cd air_quality_analysis
+conda install -c plotly plotly
 pipenv install
 pipenv shell
 pip install -r requirements.txt
