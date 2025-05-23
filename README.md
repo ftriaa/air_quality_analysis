@@ -24,8 +24,10 @@ streamlit run dashboard.py
 
 Berikut merupakan dashboard interaktif yang memungkinkan pengguna untuk melakukan eksplorasi data secara interaktif melalui berbagai filter dan visualisasi dinamis.
 
+![Screenshot 2025-05-23 221059](https://github.com/user-attachments/assets/45254f12-48e8-4237-aa5c-517b082a5bfb)
 
-🔹 Di sisi kiri, pengguna dapat memilih tahun dan kota yang ingin dianalisis. Terdapat lebih dari 10 pilihan lokasi pengukuran yang tersebar di Beijing, seperti Aotizhongxin, Dongsi, hingga Wanshouxigong.
-🔹 Di bagian tengah, tersedia tab navigasi seperti Pola Temporal, Perbandingan Kota, dan Korelasi dengan Cuaca yang memisahkan tiap fokus analisis.
-🔹 Dalam tab Pola Temporal, pengguna dapat melihat tren bulanan atau tahunan dari berbagai jenis polutan seperti PM2.5, PM10, CO, dan lainnya. Grafik garis menampilkan konsentrasi polutan berdasarkan bulan dalam satu tahun, dan dapat difilter berdasarkan resolusi waktu serta jenis polutan.
-🔹 Tersedia juga opsi untuk menampilkan data mentah secara langsung di bawah visualisasi.
+
+- Di sisi kiri, pengguna dapat memilih tahun dan kota yang ingin dianalisis. Terdapat lebih dari 10 pilihan lokasi pengukuran yang tersebar di Beijing, seperti Aotizhongxin, Dongsi, hingga Wanshouxigong.
+- Di bagian tengah, tersedia tab navigasi seperti Pola Temporal, Perbandingan Kota, dan Korelasi dengan Cuaca yang memisahkan tiap fokus analisis.
+- Dalam tab Pola Temporal, pengguna dapat melihat tren bulanan atau tahunan dari berbagai jenis polutan seperti PM2.5, PM10, CO, dan lainnya. Grafik garis menampilkan konsentrasi polutan berdasarkan bulan dalam satu tahun, dan dapat difilter berdasarkan resolusi waktu serta jenis polutan.
+- Tersedia juga opsi untuk menampilkan data mentah secara langsung di bawah visualisasi.
